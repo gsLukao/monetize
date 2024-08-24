@@ -24,8 +24,8 @@ Clone o repositório:
 
 bash
 Copiar código
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/gsLukao/monetize.git
+cd monetize
 Instale as dependências:
 
 É recomendável utilizar um ambiente virtual.
@@ -56,7 +56,6 @@ Para abrir uma única URL utilizando o Tor e o navegador Chrome/Chromium:
 bash
 Copiar código
 python3 script.py -l https://example.com
-
 
 Processar Múltiplos Links a Partir de um Arquivo
 Para processar uma lista de URLs de um arquivo de texto, com reinício automático após o término da lista:
